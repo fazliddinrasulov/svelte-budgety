@@ -146,6 +146,7 @@ Navbar
 	letter-spacing: 2px;
 }
 .nav-btn {
+	color: white;
 	background: transparent;
 	font-size: 1.3rem;
 	border: none;
