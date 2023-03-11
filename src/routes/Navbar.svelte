@@ -10,7 +10,7 @@
 		<h1 class="nav-title">budget calculator</h1>
 		<button class="nav-btn align-center" type="button" on:click={showForm}
 			><Icon icon="material-symbols:add" />
-			<span>add item</span>
+			<span>add</span>
 		</button>
 	</div>
 </nav>
